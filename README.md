@@ -5,6 +5,7 @@ Here is a typical use of react as an example.
 ### Technology stack:
 * UI built with **React.js**
 * State managed with **Redux**
+* **Hooks** for local state management and lifecycle like behaviour
 * **Typescript** for type checking
 * **Immer** for Immutability
 * **Fetch API** to get data
