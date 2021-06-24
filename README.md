@@ -10,5 +10,5 @@ Here is a typical use of react as an example.
 * **Fetch API** to get data
 * **ESLINT** to prevent buggy code
 * **Prettier** for a cleaner code
-* 
+
 # [=> DEMO](https://delalys.github.io/react-starter-kit/)
