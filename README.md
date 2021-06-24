@@ -6,7 +6,7 @@ Here is a typical use of react as an example.
 * UI built with **React.js**
 * State managed with **Redux**
 * **Typescript** for type checking
-* * **Immer** for Immutability
+* **Immer** for Immutability
 * **Fetch API** to get data
 * **ESLINT** to prevent buggy code
 * **Prettier** for a cleaner code
